@@ -1,0 +1,171 @@
+{
+    "Questions":[
+        "WAN stand for ______.",
+        "The capacity of 3.5 inch floppy disk is ____.",
+        "The first computer was introduced in Nepal was...... ",
+        "The following are example of operating system except.",
+        "The following are all application software except",
+        "Which of the following refers to the brain of a computer ",
+        "How can we improve computer security",
+        "ALU means",
+        "What is the full meaning of VDU",
+        "What does a byte consist of ?",
+        "All the following are programming language except",
+        "Who is known as the father of computer",
+        "Which of the following is an input device ?",
+        "Which of the following is an example of search engine",
+        "On the keyboard,letter A-Z called",
+        "A presentation is created using___________",
+        "Which of the  following is the lagest unit of storage ?",
+        "All the following are ICT gadget except",
+        "Deleted file in the computer can be found in the ...........?",
+        "The longest key on the keyboad is ________ ?"
+
+
+    ],"Options":[
+        [
+            "Wap Area Network",
+            "Widen Area Network",
+            "Wide Area Network",
+            "Wireless Area Network"
+        ],
+        [
+            "1.4MB",
+            "1.44GB",
+            "1.40MB",
+            "1.44MB"
+        ],
+        [
+            "IBM 1400",
+            "IBM 1401",
+            "IBM 1402",
+            "IBM1403"
+        ],
+        [
+            "Windows",
+            "Linux",
+            "Dos",
+            "Adroid"
+        ],
+        [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft Powerpoint",
+            "Microsoft Windows"
+        ],
+        [
+            "CPU",
+            "VPU",
+            "WAN",
+            "Mouse"
+        ],
+        [
+            "Password",
+            "Username",
+            "ID Number",
+            "Serial Number"
+        ],
+        [
+            "Arithmetic Logic Unit",
+            "Arithmetic License Unit",
+            "Arithmetic Logical Unit",
+            "Arithmetic Code Unit"
+        ],
+        [
+            "VIsual Disk Unit",
+            "Visit Display Unit",
+            "Visit Deplay Unit",
+            "Visual Display Unit"
+        ],
+        [
+            "0 or 1 Bit",
+            "0 Bit",
+            "1 Bit",
+            "8 Bits"
+        ],
+        [
+            "Word Processing",
+            "Java",
+            "Pascal",
+            "Basic"
+        ],
+        [
+            "Vannever Bushb.",
+            "Charies Babbage",
+            "Isaac Newton",
+            "John Afanselt"
+        ],
+        [
+            "Joystick",
+            "Printer",
+            "Plotter",
+            "Visual Display"
+
+        ],
+        [
+            "Gmail",
+            "Google",
+            "Hotmail",
+            "Internet"
+        ],
+        [
+            "Alpha Numeric keys",
+            "Alpha Beneficial keys",
+            "Alphabetical Keys",
+            "Standard Keys"
+        ],
+        [
+            "MS Excel",
+            "MS Power Point",
+            "Corel Draw",
+            "MS Word"
+        ],
+        [
+            "GB",
+            "KB",
+            "MB",
+            "TB"
+        ],
+        [
+            "Newspaper",
+            "TV Set",
+            "Computer",
+            "Radio Set"
+        ],
+        [
+            "Printer",
+            "Icon",
+            "Recycle Bin",
+            "RAM"
+        ],
+        [
+            "F10 Key",
+            "Control Key",
+            "ESC Key",
+            "Space Bar"
+        ]
+    ],"Answers":[
+        "Wide Area Network",
+        "1.44MB",
+        "IBM 1401",
+        "Dos",
+        "Microsoft Windows",
+        "CPU",
+        "Password",
+        "Arithmetic Logic Unit",
+        "Visual Display Unit",
+        "8 Bits",
+        "Word Processing",
+        "Charies Babbage",
+        "Joystick",
+        "Google",
+        "Alphabetical Keys",
+        "MS Power Point",
+        "TB",
+        "Newspaper",
+        "Recycle Bin",
+        "Space Bar"
+
+
+    ]
+}
